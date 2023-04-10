@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahjb27
 - 👀 I’m interested in Digital History
-- 🌱 I’m currently learning Web Development (Javascript and Python mainly)s
+- 🌱 I’m currently learning Web Development (Javascript and Python mainly)
 - 📫 How to reach me - open to messages here
 
 <!---
